@@ -30,3 +30,4 @@ Wall of shame (2021-10-01)
 
 |IP|Number of (black)lists|
 |---|--:|
+198.98.58.250|8
