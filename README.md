@@ -31,3 +31,4 @@ Wall of shame (2021-10-12)
 |IP|Number of (black)lists|
 |---|--:|
 199.19.224.76|8
+198.98.48.67|8
