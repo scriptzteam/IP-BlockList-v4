@@ -30,3 +30,4 @@ Wall of shame (2022-03-05)
 
 |IP|Number of (black)lists|
 |---|--:|
+45.154.168.39|8
