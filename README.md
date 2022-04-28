@@ -30,4 +30,3 @@ Wall of shame (2022-04-28)
 
 |IP|Number of (black)lists|
 |---|--:|
-61.177.173.51|8
