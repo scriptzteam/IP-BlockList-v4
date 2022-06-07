@@ -30,6 +30,9 @@ Wall of shame (2022-06-07)
 
 |IP|Number of (black)lists|
 |---|--:|
+python: can't open file 'core/update.py': [Errno 2] No such file or directory
 171.25.193.77|9
 185.107.47.215|8
+193.106.191.80|8
 171.25.193.25|8
+116.98.162.249|8
