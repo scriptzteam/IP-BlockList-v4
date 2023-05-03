@@ -1,9 +1,3 @@
-# IPs Threat Intelligence Feed
-#
-# Last update: Mon, 13 Jun 2022 17:00:01 +0000
-#
-# IP	number of (black)lists
-#
 162.247.74.74	9
 107.152.217.2	9
 171.25.193.25	9
